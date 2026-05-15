@@ -1,3 +1,11 @@
+Youtube Lec -    https://www.youtube.com/playlist?list=PLhR2IpV1b2FwWwviBHRrR118YAaSlyhTU
+1D - https://docs.google.com/document/d/1yIxJ4K5_3BheaKzhFMTv3at63xrZ_1wLsbAFhwI6D6k/edit?tab=t.0#heading=h.isxljbdu2n81
+2D - https://docs.google.com/document/d/1ZpDI8x39usY3xbxKmE47rYYJdg_kH2TnOI26cnBD3aY/edit?tab=t.0#heading=h.isxljbdu2n81
+Intro Graphs - https://docs.google.com/document/d/1LJ_j1EbMSPSa-dWIwm6SagCgtsML3P_APYMms5J3EU0/edit?tab=t.0#heading=h.isxljbdu2n81
+DSF - https://docs.google.com/document/d/1QMFdQunX-Yg4KCPMoKtf8fWCjYkV2vvf6zMRU3Yk9Vw/edit?tab=t.0#heading=h.isxljbdu2n81
+BSF - https://docs.google.com/document/d/1E6Z0-aj1E6FAjk7Dp7dg-6TBrMAdV1yU-8UF-I4wc98/edit?tab=t.0#heading=h.isxljbdu2n81
+
+
 # Data Structures and Algorithms
 
 A comprehensive learning resource for mastering core DSA concepts, progressing from fundamentals to advanced algorithms and problem-solving techniques.
